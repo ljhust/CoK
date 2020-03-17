@@ -16,6 +16,7 @@
 |[aswan](https://github.com/momosecurity/aswan)|陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。|
 |[dapr](https://github.com/dapr/dapr)|Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.|
 |[xg2xg](https://github.com/jhuangtw-dev/xg2xg)|by ex-googlers, for ex-googlers - a lookup table of similar tech & services|
+|[backstage](https://github.com/spotify/backstage)|Backstage is an open platform for building developer portals https://backstage.io|
 
 
 
