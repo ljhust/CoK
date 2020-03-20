@@ -7,6 +7,7 @@
 |[giffun](https://github.com/guolindev/giffun)|一款开源的GIF在线分享App，乐趣就要和世界分享。|
 |[awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)|微信小程序开发资源汇总 💯|
 |[awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)|
+|[mChat](https://github.com/realpaliy/mChat)|iOS - Real-time messaging app 🎨|
 
 
 
