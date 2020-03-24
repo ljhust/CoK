@@ -19,3 +19,4 @@
 |[backstage](https://github.com/spotify/backstage)|Backstage is an open platform for building developer portals https://backstage.io|
 |[BookOmatic](https://github.com/KalleHallden/BookOmatic)|This is a project that intends to automate the process of booking meetings according to available time slots.|
 |[nightingale](https://github.com/didi/nightingale)|A Distributed and High-Performance Monitoring System https://n9e.didiyun.com|
+|[excalidraw](https://github.com/excalidraw/excalidraw)|Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them. https://excalidraw.com|

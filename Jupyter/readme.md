@@ -9,7 +9,7 @@
 |[scala-best-practices](https://github.com/alexandru/scala-best-practices)|A collection of Scala best practices|
 |[drools](https://github.com/kiegroup/drools)|Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java. http://www.drools.org|
 |[QLExpress](https://github.com/alibaba/qlExpress)|QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.|
-
+|[jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)|A collection of various notebook extensions for Jupyter|
 
 
 
