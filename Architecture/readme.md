@@ -13,7 +13,7 @@
 |[plt](https://github.com/steshaw/plt)|λΠ Programming Language Theory https://steshaw.org/plt|
 |[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.|
 |[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
-
+|[coding-interview-university](https://github.com/jwasham/coding-interview-university)|A complete computer science study plan to become a software engineer.|
 
 
 
