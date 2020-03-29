@@ -21,6 +21,6 @@
 |[numba](https://github.com/numba/numba)|NumPy aware dynamic Python compiler using LLVM http://numba.pydata.org/|
 |[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)|
 |[python-patterns](https://github.com/faif/python-patterns)|A collection of design patterns/idioms in Python|
-
+|[rules](https://github.com/jruizgit/rules)|Durable Rules Engine|
 
 
