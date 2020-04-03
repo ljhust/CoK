@@ -21,3 +21,4 @@
 |[nightingale](https://github.com/didi/nightingale)|A Distributed and High-Performance Monitoring System https://n9e.didiyun.com|
 |[excalidraw](https://github.com/excalidraw/excalidraw)|Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them. https://excalidraw.com|
 |[matrix](https://github.com/ResultadosDigitais/matrix)|#matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.|
+|[jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge)|Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server). https://jitsi.org/jitsi-videobridge|
