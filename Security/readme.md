@@ -22,3 +22,4 @@
 |[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)|
 |[awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)|
 |[awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)|
+|[Awesome Threat Detection and Hunting library](https://github.com/threat-hunting/awesome_Threat-Hunting)|
