@@ -11,6 +11,4 @@
 |[halley](https://github.com/amzeratul/halley)|A lightweight game engine written in modern C++ https://discord.gg/T7qQqQJ|
 |[pistache](https://github.com/oktal/pistache)|A high-performance REST Toolkit written in C++|
 |[CppCoreGuidelines-zh-CN](https://github.com/lynnboy/CppCoreGuidelines-zh-CN/blob/master/CppCoreGuidelines-zh-CN.md)|C++ 核心指导方针|
-
-
-
+|[ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)|Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format and reproducible dependency management.|
