@@ -16,3 +16,4 @@
 |[nebula](https://github.com/vesoft-inc/nebula)|A distributed, fast open-source graph database featuring horizontal scalability and high availability https://nebula-graph.io|
 |[awesome-database-learning](https://github.com/pingcap/awesome-database-learning)|
 |[event-reduce](https://github.com/pubkey/event-reduce)|An algorithm to optimize database queries that run multiple times https://pubkey.github.io/event-reduce|
+|[shardingsphere](https://github.com/apache/shardingsphere)|Distributed database middleware|
