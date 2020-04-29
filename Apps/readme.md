@@ -23,3 +23,4 @@
 |[matrix](https://github.com/ResultadosDigitais/matrix)|#matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.|
 |[jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge)|Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server). https://jitsi.org/jitsi-videobridge|
 |[markmap-lib](https://github.com/gera2ld/markmap-lib)|Visualize your Markdown as mindmaps with Markmap. https://markmap.js.org/|
+|[file-upload](https://github.com/nikosch86/file-upload)|minimal file sharing site - self hosted|
