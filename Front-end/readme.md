@@ -5,9 +5,4 @@
 |[Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist#css)|🗂 The perfect Front-End Checklist for modern websites and meticulous developers https://frontendchecklist.io|
 |[postcss](https://github.com/postcss/postcss#plugins)|Transforming styles with JS plugins https://postcss.org/|
 |[graphql-spec](https://github.com/graphql/graphql-spec)|GraphQL is a query language and execution engine tied to any backend service. https://spec.graphql.org|
-
-
-
-
-
-
+|[editly](https://github.com/mifi/editly)|Slick, declarative command line video editing|
