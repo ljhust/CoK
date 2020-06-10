@@ -15,7 +15,6 @@
 |[pearProject](https://github.com/a54552239/pearProject)|pear，梨子，轻量级的在线项目/任务协作系统，远程办公协作 https://home.vilson.xyz|
 |[aswan](https://github.com/momosecurity/aswan)|陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。|
 |[dapr](https://github.com/dapr/dapr)|Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.|
-|[xg2xg](https://github.com/jhuangtw-dev/xg2xg)|by ex-googlers, for ex-googlers - a lookup table of similar tech & services|
 |[backstage](https://github.com/spotify/backstage)|Backstage is an open platform for building developer portals https://backstage.io|
 |[BookOmatic](https://github.com/KalleHallden/BookOmatic)|This is a project that intends to automate the process of booking meetings according to available time slots.|
 |[nightingale](https://github.com/didi/nightingale)|A Distributed and High-Performance Monitoring System https://n9e.didiyun.com|
@@ -24,3 +23,4 @@
 |[jitsi-videobridge](https://github.com/jitsi/jitsi-videobridge)|Jitsi Videobridge is a WebRTC compatible video router or SFU that lets build highly scalable video conferencing infrastructure (i.e., up to hundreds of conferences per server). https://jitsi.org/jitsi-videobridge|
 |[markmap-lib](https://github.com/gera2ld/markmap-lib)|Visualize your Markdown as mindmaps with Markmap. https://markmap.js.org/|
 |[file-upload](https://github.com/nikosch86/file-upload)|minimal file sharing site - self hosted|
+|[sourcery](https://github.com/sourcery-ai/sourcery)|Refactor Python using AI. ⭐ this repo and Sourcery Starbot will send you a PR https://sourcery.ai|

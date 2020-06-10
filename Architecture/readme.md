@@ -14,6 +14,4 @@
 |[system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.|
 |[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
 |[coding-interview-university](https://github.com/jwasham/coding-interview-university)|A complete computer science study plan to become a software engineer.|
-
-
-
+|[xg2xg](https://github.com/jhuangtw-dev/xg2xg)|by ex-googlers, for ex-googlers - a lookup table of similar tech & services|

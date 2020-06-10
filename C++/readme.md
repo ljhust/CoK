@@ -13,3 +13,4 @@
 |[CppCoreGuidelines-zh-CN](https://github.com/lynnboy/CppCoreGuidelines-zh-CN/blob/master/CppCoreGuidelines-zh-CN.md)|C++ 核心指导方针|
 |[ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)|Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format and reproducible dependency management.|
 |[TinyWebServer](https://github.com/qinguoyi/TinyWebServer)|🔥 Linux下C++轻量级Web服务器|
+|[modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template?u=1661452664&m=4512145625369057&cu=1661452664)|A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.|
