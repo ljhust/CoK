@@ -7,5 +7,4 @@
 |[uvloop](https://github.com/MagicStack/uvloop)|Ultra fast asyncio event loop.|
 |[awesome-django](https://github.com/wsvincent/awesome-django)|
 |[updog](https://github.com/sc0tfree/updog)|Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.|
-
-
+|[shuup](https://github.com/shuup/shuup)|E-Commerce Platform|

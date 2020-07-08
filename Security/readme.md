@@ -23,3 +23,4 @@
 |[awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)|
 |[awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)|
 |[Awesome Threat Detection and Hunting library](https://github.com/threat-hunting/awesome_Threat-Hunting)|
+|[violent-python3](https://github.com/EONRaider/violent-python3)|Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.|

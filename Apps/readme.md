@@ -24,3 +24,5 @@
 |[markmap-lib](https://github.com/gera2ld/markmap-lib)|Visualize your Markdown as mindmaps with Markmap. https://markmap.js.org/|
 |[file-upload](https://github.com/nikosch86/file-upload)|minimal file sharing site - self hosted|
 |[sourcery](https://github.com/sourcery-ai/sourcery)|Refactor Python using AI. ⭐ this repo and Sourcery Starbot will send you a PR https://sourcery.ai|
+|[mmap.it](https://github.com/pdepip/mmap.it)|Map knowledge into memory with seamless search and note taking https://mmap.it|
+|[amundsen](https://github.com/lyft/amundsen)|Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data – 🗃🕵️‍♀️ https://lyft.github.io/amundsen/|
