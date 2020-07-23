@@ -13,14 +13,15 @@
 |[cross_browser](https://github.com/Song-Li/cross_browser)|This is a project for a browser fingerprinting technique that can track users not only within a single browser but also across different browsers on the same machine. http://uniquemachine.org/|
 |[Micro8](https://github.com/Micropoor/Micro8)|渗透教程|
 |[h4cker](https://github.com/The-Art-of-Hacking/h4cker)|This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. https://h4cker.org|
-|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)|
-|[Hacker101](https://github.com/Hacker0x01/hacker101)|
+|[API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)||
+|[Hacker101](https://github.com/Hacker0x01/hacker101)||
 |[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)|A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.|
 |[Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips)|2018年初整理的一些内网渗透TIPS，后面更新的慢，所以公开出来希望跟小伙伴们一起更新维护~|
 |[TideFinger](https://github.com/TideSec/TideFinger)|TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。|
 |[opencti](https://github.com/OpenCTI-Platform/opencti)|Open Cyber Threat Intelligence Platform https://www.opencti.io|
-|[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)|
-|[awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)|
-|[awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)|
-|[Awesome Threat Detection and Hunting library](https://github.com/threat-hunting/awesome_Threat-Hunting)|
+|[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)||
+|[awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)||
+|[awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering)||
+|[Awesome Threat Detection and Hunting library](https://github.com/threat-hunting/awesome_Threat-Hunting)||
 |[violent-python3](https://github.com/EONRaider/violent-python3)|Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.|
+|[hackingtool](https://github.com/Z4nzu/hackingtool)|ALL IN ONE Hacking Tool For Hackers|
