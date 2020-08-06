@@ -25,3 +25,4 @@
 |[Awesome Threat Detection and Hunting library](https://github.com/threat-hunting/awesome_Threat-Hunting)||
 |[violent-python3](https://github.com/EONRaider/violent-python3)|Source code for the book "Violent Python" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.|
 |[hackingtool](https://github.com/Z4nzu/hackingtool)|ALL IN ONE Hacking Tool For Hackers|
+|[how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything)|How to systematically secure anything: a repository about security engineering|

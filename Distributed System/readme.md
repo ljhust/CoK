@@ -10,5 +10,4 @@
 |[go-fastdfs](https://github.com/sjqzhang/go-fastdfs)|A simple fast, easy use distributed file system written by golang(similar fastdfs).go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。 https://gitee.com/sjqzhang/go-fastdfs|
 |[mnssp3](https://github.com/mpplab/mnssp3)|A Privacy Protection Sharing Platform for Medical Big Data|
 |[swim](https://github.com/swimos/swim)|Distributed software platform for building stateful, massively real-time streaming applications. https://swimOS.org|
-
-
+|[PowerJob](https://github.com/KFCFans/PowerJob)|新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！|

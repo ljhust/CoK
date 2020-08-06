@@ -27,3 +27,6 @@
 |[mmap.it](https://github.com/pdepip/mmap.it)|Map knowledge into memory with seamless search and note taking https://mmap.it|
 |[amundsen](https://github.com/lyft/amundsen)|Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data – 🗃🕵️‍♀️ https://lyft.github.io/amundsen/|
 |[berty](https://github.com/berty/berty)|Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network|
+|[Luckysheet](https://github.com/mengshukeji/Luckysheet)|Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.|
+|[AniX](https://github.com/manikandanraji/AniX)|AniX - Stream Animes|
+|[fluent-reader](https://github.com/yang991178/fluent-reader)|Modern desktop RSS reader built with Electron, React, and Fluent UI|

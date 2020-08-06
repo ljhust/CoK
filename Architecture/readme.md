@@ -15,3 +15,4 @@
 |[awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|
 |[coding-interview-university](https://github.com/jwasham/coding-interview-university)|A complete computer science study plan to become a software engineer.|
 |[xg2xg](https://github.com/jhuangtw-dev/xg2xg)|by ex-googlers, for ex-googlers - a lookup table of similar tech & services|
+|[awesome-websockets](https://github.com/facundofarias/awesome-websockets)|A curated list of Websocket libraries and resources.|

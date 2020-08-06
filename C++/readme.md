@@ -14,3 +14,4 @@
 |[ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)|Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format and reproducible dependency management.|
 |[TinyWebServer](https://github.com/qinguoyi/TinyWebServer)|🔥 Linux下C++轻量级Web服务器|
 |[modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template?u=1661452664&m=4512145625369057&cu=1661452664)|A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.|
+|[workflow](https://github.com/sogou/workflow)|搜狗公司的后端C++编程标准，是一套企业级的程序引擎|
