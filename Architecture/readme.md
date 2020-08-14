@@ -16,3 +16,4 @@
 |[coding-interview-university](https://github.com/jwasham/coding-interview-university)|A complete computer science study plan to become a software engineer.|
 |[xg2xg](https://github.com/jhuangtw-dev/xg2xg)|by ex-googlers, for ex-googlers - a lookup table of similar tech & services|
 |[awesome-websockets](https://github.com/facundofarias/awesome-websockets)|A curated list of Websocket libraries and resources.|
+|[awesome-system-design](https://github.com/madd86/awesome-system-design)|A curated list of awesome system design mateiral|

@@ -4,3 +4,4 @@
 |[async-graphql](https://github.com/async-graphql/async-graphql)|The GraphQL server library implemented by rust|
 |[weld](https://github.com/weld-project/weld)|High-performance runtime for data analytics applications https://www.weld.rs|
 |[Oxygengine](https://github.com/PsichiX/Oxygengine)|Rust implementation of Oxygen Core HTML5 game engine|
+|[bevy](https://github.com/bevyengine/bevy)|A refreshingly simple data-driven game engine built in Rust|

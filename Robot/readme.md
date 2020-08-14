@@ -8,3 +8,4 @@
 |[VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)|A Robust and Versatile Monocular Visual-Inertial State Estimator|
 |[PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)|Python sample codes for robotics algorithms. |
 |[ORB_SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)|ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM|
+|[awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling)|Tools for professional robotic development in C++ and Python with a touch of autonomous driving and aerospace|

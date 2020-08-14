@@ -11,3 +11,4 @@
 |[mnssp3](https://github.com/mpplab/mnssp3)|A Privacy Protection Sharing Platform for Medical Big Data|
 |[swim](https://github.com/swimos/swim)|Distributed software platform for building stateful, massively real-time streaming applications. https://swimOS.org|
 |[PowerJob](https://github.com/KFCFans/PowerJob)|新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！|
+|[eventnative](https://github.com/ksensehq/eventnative)|EventNative is an open-source data collection framework|

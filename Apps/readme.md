@@ -30,3 +30,5 @@
 |[Luckysheet](https://github.com/mengshukeji/Luckysheet)|Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.|
 |[AniX](https://github.com/manikandanraji/AniX)|AniX - Stream Animes|
 |[fluent-reader](https://github.com/yang991178/fluent-reader)|Modern desktop RSS reader built with Electron, React, and Fluent UI|
+|[dzzoffice](https://github.com/zyx0814/dzzoffice)|Dzzoffice是一套开源办公套件，适用于企业、团队搭建自己的 类似“Google企业应用套件”、“微软Office365”的企业协同办公平台。|
+|[papercups](https://github.com/papercups-io/papercups)|Open-source live customer chat|

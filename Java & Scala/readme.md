@@ -9,6 +9,4 @@
 |[scala-best-practices](https://github.com/alexandru/scala-best-practices)|A collection of Scala best practices|
 |[drools](https://github.com/kiegroup/drools)|Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java. http://www.drools.org|
 |[QLExpress](https://github.com/alibaba/qlExpress)|QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.|
-
-
-
+|[awesome-java](https://github.com/Snailclimb/awesome-java)|Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合).|
