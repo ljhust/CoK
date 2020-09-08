@@ -9,10 +9,4 @@
 |[the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide)|This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).|
 |[serenity](https://github.com/SerenityOS/serenity)|The Serenity Operating System 🐞 http://serenityos.org|
 |[linux-insides-zh](https://github.com/MintCN/linux-insides-zh)|Linux 内核揭秘|
-
-
-
-
-
-
-
+|[raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)|Learning operating system development using Linux kernel and Raspberry Pi|

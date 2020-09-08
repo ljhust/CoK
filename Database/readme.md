@@ -18,3 +18,4 @@
 |[event-reduce](https://github.com/pubkey/event-reduce)|An algorithm to optimize database queries that run multiple times https://pubkey.github.io/event-reduce|
 |[shardingsphere](https://github.com/apache/shardingsphere)|Distributed database middleware|
 |[HSE](https://www.weibo.com/mygroups?gid=3769648463997301&wvr=6&leftnav=1)|异构内存存储引擎，为SSD固态硬盘设计的嵌入式键值存储库|
+|[ClickHouse](https://github.com/ClickHouse/ClickHouse)|ClickHouse is a free analytics DBMS for big data|

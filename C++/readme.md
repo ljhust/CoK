@@ -15,3 +15,4 @@
 |[TinyWebServer](https://github.com/qinguoyi/TinyWebServer)|🔥 Linux下C++轻量级Web服务器|
 |[modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template?u=1661452664&m=4512145625369057&cu=1661452664)|A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.|
 |[workflow](https://github.com/sogou/workflow)|搜狗公司的后端C++编程标准，是一套企业级的程序引擎|
+|[awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)|C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等|
