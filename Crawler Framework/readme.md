@@ -10,3 +10,4 @@
 |[pholcus](https://github.com/henrylee2cn/pholcus)|Pholcus is a distributed high-concurrency crawler software written in pure golang|
 |[awesome-crawler](https://github.com/BruceDone/awesome-crawler)|A collection of awesome web crawler,spider in different languages|
 |[annie](https://github.com/iawia002/annie)|👾 Fast, simple and clean video downloader|
+|[autoscraper](https://github.com/alirezamika/autoscraper)|A Smart, Automatic, Fast and Lightweight Web Scraper for Python|
