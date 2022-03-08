@@ -22,5 +22,5 @@
 |[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)|
 |[python-patterns](https://github.com/faif/python-patterns)|A collection of design patterns/idioms in Python|
 |[rules](https://github.com/jruizgit/rules)|Durable Rules Engine|
-
+|[injector](https://github.com/alecthomas/injector)|Python dependency injection framework, inspired by Guice|
 
