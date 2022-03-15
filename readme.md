@@ -1,1 +1,1 @@
-# computer science knowledge hub for private use
+# computer science knowledge hub for personal use
