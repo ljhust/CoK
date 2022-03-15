@@ -29,3 +29,4 @@
 |[Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)|渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms|
 |[Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)|A collection of open source and commercial tools that aid in red team operations.|
 |[openedr](https://github.com/ComodoSecurity/openedr)|Open EDR public repository|
+|[1earn](https://github.com/ffffffff0x/1earn)|ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|
