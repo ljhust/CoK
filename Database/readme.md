@@ -20,3 +20,4 @@
 |[HSE](https://www.weibo.com/mygroups?gid=3769648463997301&wvr=6&leftnav=1)|异构内存存储引擎，为SSD固态硬盘设计的嵌入式键值存储库|
 |[ClickHouse](https://github.com/ClickHouse/ClickHouse)|ClickHouse is a free analytics DBMS for big data|
 |[awesome-database-learning](https://github.com/pingcap/awesome-database-learning)|A list of learning materials to understand databases internals|
+|[citus](https://github.com/citusdata/citus)|Distributed PostgreSQL as an extension|
