@@ -21,3 +21,4 @@
 |[ClickHouse](https://github.com/ClickHouse/ClickHouse)|ClickHouse is a free analytics DBMS for big data|
 |[awesome-database-learning](https://github.com/pingcap/awesome-database-learning)|A list of learning materials to understand databases internals|
 |[citus](https://github.com/citusdata/citus)|Distributed PostgreSQL as an extension|
+|[nebula](https://github.com/vesoft-inc/nebula)|A distributed, fast open-source graph database featuring horizontal scalability and high availability|
