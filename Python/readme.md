@@ -23,4 +23,4 @@
 |[python-patterns](https://github.com/faif/python-patterns)|A collection of design patterns/idioms in Python|
 |[rules](https://github.com/jruizgit/rules)|Durable Rules Engine|
 |[injector](https://github.com/alecthomas/injector)|Python dependency injection framework, inspired by Guice|
-
+|[pyscript](https://github.com/pyscript/pyscript)|PyScript is a Pythonic alternative to Scratch, JSFiddle or other "easy to use" programming frameworks, making the web a friendly, hackable, place where anyone can author interesting and interactive applications.|
