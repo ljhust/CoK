@@ -33,3 +33,13 @@
 |[papercups](https://github.com/papercups-io/papercups)|Open-source live customer chat|
 |[appsmith](https://github.com/appsmithorg/appsmith)|Appsmith is a web framework to build dashboards, workflows, forms, and any internal tool. The framework comes with UI widgets like tables, charts, forms, map viewer, and more. Easily connect to REST APIs, Postgres, Mongo, and MySQL. Invite users and allow login with Google accounts.|
 |[guora](https://github.com/meloalright/guora)|🖖🏻 A self-hosted Quora like web application written in Go 基于 Golang 类似知乎的私有部署问答应用 包含问答、评论、点赞、管理后台等功能|
+|[paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)|A community-supported supercharged version of paperless: scan, index and archive all your physical documents|
+
+
+
+
+
+
+
+
+
