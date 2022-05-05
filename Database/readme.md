@@ -23,3 +23,9 @@
 |[citus](https://github.com/citusdata/citus)|Distributed PostgreSQL as an extension|
 |[nebula](https://github.com/vesoft-inc/nebula)|A distributed, fast open-source graph database featuring horizontal scalability and high availability|
 |[cockroach](https://github.com/cockroachdb/cockroach)|CockroachDB - the open source, cloud-native distributed SQL database.|
+|[dgraph](https://github.com/dgraph-io/dgraph)|Native GraphQL Database with graph backend|
+
+
+
+
+
