@@ -12,5 +12,6 @@
 |[javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (March 2020) https://testjavascript.com/|
 |[flowy](https://github.com/alyssaxuu/flowy)|The minimal javascript library to create flowcharts ✨|
 |[amplication](https://github.com/amplication/amplication)|Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.|
+|[awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)|⚡ Delightful Node.js packages and resources|
 
 
