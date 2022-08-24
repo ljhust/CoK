@@ -25,6 +25,6 @@
 |[cockroach](https://github.com/cockroachdb/cockroach)|CockroachDB - the open source, cloud-native distributed SQL database.|
 |[dgraph](https://github.com/dgraph-io/dgraph)|Native GraphQL Database with graph backend|
 |[pranadb](https://github.com/cashapp/pranadb)|PranaDB is a distributed streaming database, designed from the outset to be horizontally scalable.|
-
+|[nebula](https://github.com/vesoft-inc/nebula)|A distributed, fast open-source graph database featuring horizontal scalability and high availability|
 
 
